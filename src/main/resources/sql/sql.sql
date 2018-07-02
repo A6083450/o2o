@@ -1,4 +1,4 @@
-
+--sql
 create table `tb_area`(
 	`area_id` int(2) not null auto_increment,
 	`area_name` varchar(200) not null,
